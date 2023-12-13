@@ -1,5 +1,9 @@
 ![Image cover](./assets/github_cover1.png)
+<<<<<<< HEAD
 - 👋 Hi, I’m **Sergio Hernandez Corzo**
+=======
+- 👋 Hi, I’m Sergio Hernández Corzo
+>>>>>>> refs/remotes/origin/main
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning JavaScript, and react.js, and next.js.
 - 💞️ I’m looking to collaborate on ...
