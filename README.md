@@ -1,6 +1,7 @@
+![Image cover](./assets/github_cover1.png)
 - 👋 Hi, I’m @SergioCorzo
-- 👀 I’m interested in web develop
-- 🌱 I’m currently learning html, and css, and JavaScript
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning JavaScript, and react.js, and next.js.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
