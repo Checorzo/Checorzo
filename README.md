@@ -1,5 +1,5 @@
 ![Image cover](./assets/github_cover1.png)
-- 👋 Hi, I’m @SergioCorzo
+- 👋 Hi, I’m @Checorzo
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning JavaScript, and react.js, and next.js.
 - 💞️ I’m looking to collaborate on ...
